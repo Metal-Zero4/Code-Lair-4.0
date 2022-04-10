@@ -234,3 +234,5 @@ class UserSearch(View):
         }
 
         return render(request, 'social/search.html', context)
+
+# Create your views here.
